@@ -16,11 +16,9 @@ hs_err_pid*
 .gradle
 bin/
 tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
+target/
 .settings/
 .loadpath
 .target
+.project
+.classpath
